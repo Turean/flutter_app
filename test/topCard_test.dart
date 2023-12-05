@@ -25,6 +25,5 @@ void main() {
     expect(find.text('Cash Out'), findsOneWidget);
     expect(find.text('300 MMK'), findsOneWidget);
 
-
   });
 }

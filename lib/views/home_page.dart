@@ -3,8 +3,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:galaxy_ray_v2/controllers/google_sheet_api.dart';
-import 'package:galaxy_ray_v2/controllers/plus_button.dart';
-import 'package:galaxy_ray_v2/models/transaction.dart';
+import 'package:galaxy_ray_v2/views/plus_button.dart';
+import 'package:galaxy_ray_v2/views/transaction.dart';
 import 'package:galaxy_ray_v2/views/loading_circle.dart';
 import 'package:galaxy_ray_v2/views/top_card.dart';
 

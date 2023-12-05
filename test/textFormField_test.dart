@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:galaxy_ray_v2/controllers/my_textfields.dart';
+import 'package:galaxy_ray_v2/views/my_textfields.dart';
 
 void main() {
   testWidgets('MyTextField Widget Test', (WidgetTester tester) async {

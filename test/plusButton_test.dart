@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:galaxy_ray_v2/controllers/plus_button.dart';
+import 'package:galaxy_ray_v2/views/plus_button.dart';
 
 void main() {
   testWidgets('PlusButton Widget Test', (WidgetTester tester) async {

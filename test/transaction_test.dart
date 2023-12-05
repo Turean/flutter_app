@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:galaxy_ray_v2/models/transaction.dart';
+import 'package:galaxy_ray_v2/views/transaction.dart';
 
 void main() {
   testWidgets('MyTransaction Widget Test', (WidgetTester tester) async {
